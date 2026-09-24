@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Ana María Alvarez 👋</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Java+Developer+in+Training;Systems+Engineering+Student;Building+strong+engineering+foundations;Java+%7C+Spring+Boot+%7C+Backend+Engineering"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 <h3 align="center">
   Backend Java Developer in Training
 </h3>
@@ -52,6 +61,8 @@ Operation
 Technical Decisions
    ↓
 Retrospective
+```
+
 My goal is not to accumulate technologies, but to build
 verifiable evidence of engineering capability through software that
 I can understand, test, document and defend technically.
@@ -125,6 +136,7 @@ on developing strong foundations in:
 Java Core · Algorithms · Data Structures · Complexity Analysis ·
 Correctness · Testing · Benchmarking
 
+```text
 Engineering workflow
 Problem Understanding
         ↓
@@ -148,6 +160,8 @@ Experimental Evaluation
         ↓
 Technical Documentation
 Current technology stack
+```
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,maven,git,github,githubactions,linux,idea&theme=dark" /> </p>
 Java 21 · Maven · JUnit 5 · AssertJ · JMH ·
 Git · GitHub Actions
@@ -156,6 +170,7 @@ Git · GitHub Actions
 🧭 Backend Engineering Roadmap
 My portfolio follows a progressive engineering roadmap.
 
+```text
 0. Professional Foundations
         ↓
 1. Algorithms Java Mastery
@@ -174,6 +189,8 @@ My portfolio follows a progressive engineering roadmap.
         ↓
 7. Cloud & Platform Engineering
 0 — Professional Foundations
+```
+
 HTTP · Networking · Git · Maven · Linux
 
 1 — Algorithms Java Mastery
@@ -232,6 +249,7 @@ AI proposes. I evaluate, understand, test and decide.
 
 For concepts that I'm still learning, reasoning comes first.
 
+```text
 Think
   ↓
 Provide Context
@@ -247,6 +265,8 @@ Test
 Review
   ↓
 Commit
+```
+
 Current AI usage:
 
 Technical Tutor · Code Review · Edge Cases ·
@@ -258,6 +278,8 @@ Context Engineering · Repo-aware AI ·
 Controlled Coding Agents · Spring AI · RAG
 
 📚 Currently Learning
+
+```text
 Java Core
    ↓
 Algorithms & Data Structures
@@ -273,7 +295,7 @@ Backend Architecture
 Security
    ↓
 Docker & CI/CD
-
+```
 
 🎯 Professional Goal
 I'm building toward my first professional opportunity as a
@@ -318,6 +340,7 @@ appear as a consequence of real engineering work and collaboration.
 📈 Engineering Journey
 I'm deliberately progressing from:
 
+```text
 Fundamentals
      ↓
 Backend Development
@@ -331,6 +354,8 @@ Distributed Systems
 Cloud
      ↓
 AI-Assisted Engineering
+```
+
 Each new level should be supported by a system I understand well enough
 to explain its architecture, tests, limitations and trade-offs.
 
