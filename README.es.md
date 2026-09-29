@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="center">
-  Desarrolladora Backend Java | Estudiante de Ingeniería en Sistemas
+  Desarrolladora Backend Java 
 </h3>
 
 <p align="center">
