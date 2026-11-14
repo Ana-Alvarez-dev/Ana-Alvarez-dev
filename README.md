@@ -1,15 +1,18 @@
 
 <div align="center">
 
-<img src="./assets/banner-animated.gif" alt="Ana Alvarez — Backend Engineering" width="100%" />
+**English** | [Español](./README.es.md)
+
+<img src="./assets/banner-backend-ana-alvarez.png" alt="Ana Álvarez — Backend Developer" width="100%" />
 
 **Systems Engineering Student · Software Development Student**
 
 *Building reliable backend systems through design, testing and engineering practices.*
 
-[Projects](#featured-projects) · [Learning Roadmap](#learning-roadmap) · [Español](./README.es.md)
+[Projects](#featured-projects) · [Learning Roadmap](#learning-roadmap)
 
 </div>
+
 
 ---
 
